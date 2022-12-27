@@ -3,14 +3,14 @@
 </p>
 
 <p align="center"> 
-  <a href="https://twitter.com/mi_after_luis" target="blank">
+  <a href="https://twitter.com/mi_after_luis" target="_blank">
     <img src="https://img.shields.io/twitter/follow/mi_after_luis?logo=twitter&style=for-the-badge" alt="mi_after_luis"/>
   </a> 
   <img src="https://komarev.com/ghpvc/?username=lmisea&style=for-the-badge" alt="Profile Views Counter">
-  <a href="https://www.linkedin.com/in/luis-miguel-isea/" target="blank">
+  <a href="https://www.linkedin.com/in/luis-miguel-isea/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
-  <a href="mailto:isea.luis.miguel@gmail.com" target="blank">
+  <a href="mailto:isea.luis.miguel@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="isea.luis.miguel@gmail.com"/>
   </a>
 </p>
@@ -36,11 +36,15 @@
 
 ### 🥇 GitHub Stats
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lmisea&theme=black-ice"/></a> 
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=lmisea&theme=black-ice"/>
+  </a> 
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmisea&theme=react&title_color=00E6FE&bg_color=131313&layout=compact"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmisea&theme=react&title_color=00E6FE&bg_color=131313&layout=compact"/>
+  </a>
 </p>
 
 <!---
