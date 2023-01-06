@@ -44,11 +44,12 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmisea&theme=react&title_color=00E6FE&bg_color=131313&layout=compact"/>
+    <img src="https://github-readme-stats-delta-plum.vercel.app/api/top-langs/?username=lmisea&theme=react&title_color=00E6FE&bg_color=131313&layout=compact"/>
   </a>
 </p>
 
 <!---
 LuimiDev/LuimiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://github-readme-stats-delta-plum.vercel.app/
 --->
