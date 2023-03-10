@@ -3,8 +3,8 @@
 </p>
 
 <p align="center"> 
-  <a href="https://twitter.com/mi_after_luis" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/mi_after_luis?color=00acee&logo=twitter&style=for-the-badge" alt="mi_after_luis"/>
+  <a href="https://twitter.com/lm_isea" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/lm_isea?color=00acee&logo=twitter&style=for-the-badge" alt="mi_after_luis"/>
   </a> 
   <img src="https://komarev.com/ghpvc/?username=lmisea&style=for-the-badge&color=blueviolet" alt="Profile Views Counter">
   <a href="https://www.linkedin.com/in/luis-miguel-isea/" target="_blank">
