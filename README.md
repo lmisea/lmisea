@@ -2,10 +2,10 @@
   <img src="./lmisea-header.png" alt="Personal Github Header"/>
 </p>
 
-<p align="center"> 
+<p align="center">
   <a href="https://twitter.com/lm_isea" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/lm_isea?color=00acee&logo=twitter&style=for-the-badge" alt="mi_after_luis"/>
-  </a> 
+    <img src="https://img.shields.io/badge/%40lm_isea-me?style=for-the-badge&logo=twitter&label=Follow&color=aqua" alt="mi_after_luis"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=lmisea&style=for-the-badge&color=blueviolet" alt="Profile Views Counter">
   <a href="https://www.linkedin.com/in/luis-miguel-isea/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
@@ -18,8 +18,10 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/Kotlin-ko?style=for-the-badge&logo=kotlin&color=%232A2726" alt="Kotlin" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -27,6 +29,7 @@
 </p>
 
 ### 📖📔 Currently Learning
+
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -36,10 +39,11 @@
 ---
 
 ### 🥇 GitHub Stats
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=lmisea&theme=black-ice"/>
-  </a> 
+  </a>
 </p>
 
 <p align="center">
@@ -49,7 +53,7 @@
 </p>
 
 <!---
-LuimiDev/LuimiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lmisea/lmisea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 https://github-readme-stats-delta-plum.vercel.app/
 --->
