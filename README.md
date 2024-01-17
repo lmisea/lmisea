@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./lmisea-header.png" alt="Personal Github Header"/>
+  <img src="./header.png" alt="Personal Github Header"/>
 </p>
 
 <p align="center">
