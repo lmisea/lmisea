@@ -1,7 +1,5 @@
 <div align="center">
 
-![Personal Header](header.png)
-
 ![Welcome to my GitHub](https://img.shields.io/badge/Welcome%20to%20my%20Github-00000F?style=for-the-badge&logo=github&logoColor=white)
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lm_isea) &nbsp;
@@ -32,8 +30,8 @@ I'm just starting this journey of creation and innovation. **Shaping the future,
 
 ## 🏆 GitHub Stats
 
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lmisea&theme=black-ice)](https://git.io/streak-stats)
+[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lmisea&theme=catppuccin-mocha)](https://git.io/streak-stats)
 
-[![GitHub most used languages](https://github-readme-stats-delta-plum.vercel.app/api/top-langs/?username=lmisea&theme=react&title_color=00E6FE&bg_color=131313&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub most used languages](https://github-readme-stats-delta-plum.vercel.app/api/top-langs/?username=lmisea&theme=react&title_color=CBA6F7&bg_color=1E1E2E&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
