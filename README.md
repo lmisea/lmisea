@@ -19,7 +19,7 @@ I'm just starting this journey of creation and innovation. **Shaping the future,
 
 ## 💻 Technology Stack
 
-[![JS, TS, React, Node.js, Docker, Bash, Linux, Java, C, C++, Python](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,bash,linux,java,c,cpp,python)](https://skillicons.dev)
+[![JS, TS, React, Node.js, Docker, Bash, Linux, Java, C, C++, Python](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,bash,linux,java,kotlin,c,cpp,python)](https://skillicons.dev)
 
 ## 📖 Currently Learning
 
