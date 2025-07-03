@@ -27,7 +27,7 @@ I'm just starting this journey of creation and innovation. **Shaping the future,
 
 ## 🏆 GitHub Stats
 
-[![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=lmisea&theme=react)](https://git.io/streak-stats)
+[![GitHub streak stats](https://github-readme-streak-stats-eight.vercel.app/?user=lmisea&theme=react)](https://git.io/streak-stats)
 
 [![GitHub most used languages](https://github-readme-stats-delta-plum.vercel.app/api/top-langs/?username=lmisea&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
