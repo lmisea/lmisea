@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![JS, TS, React, Node.js, Docker, Bash, Linux, Java, C, C++, Python, MySQL, TailwindCSS](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,bash,linux,java,kotlin,c,cpp,python,mysql,tailwindcss)](https://skillicons.dev)
+[![JS, TS, React, Node.js, Docker, Bash, Linux, Java, C, C++, Python, MySQL, PostgreSQL](https://skillicons.dev/icons?i=js,ts,react,nodejs,docker,bash,linux,java,kotlin,c,cpp,python,mysql,postgresql)](https://skillicons.dev)
 
 </div>
 
